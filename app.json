@@ -22,7 +22,5 @@
   ],
   "showMyCode": true,
   "runtime": "6.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+  "features": ["TranslationFile"]
 }
